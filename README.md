@@ -1,6 +1,6 @@
 # Kitchen Prep Board — Legal & Support
 
-Public legal and support pages for **Kitchen Prep Board Android 1.0**.
+Public legal and support pages for **Kitchen Prep Board Android and iOS 2.0**.
 
 Provider: **Lateef Razaq-Oyetola carrying on business as GoodUse Studios**  
 Mailing address: **36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada**  
@@ -25,4 +25,4 @@ Expected project-site base URL once GitHub Pages is enabled:
 
 This site intentionally contains no analytics scripts, advertising, third-party fonts or tracking pixels.
 
-EEA/UK distribution is not enabled until any required representative appointment is complete and representative details are added to the Privacy Policy.
+EEA/UK distribution is not enabled until any required representative appointment is complete and representative details are added to the Privacy Policy. The iOS release is paid upfront and contains no advertising or in-app purchases; Android remains free with advertising and an optional remove-ads subscription.
